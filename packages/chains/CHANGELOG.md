@@ -1,5 +1,11 @@
 # @thirdweb-dev/chains
 
+## 0.1.13
+
+### Patch Changes
+
+- [#787](https://github.com/thirdweb-dev/js/pull/787) [`d2c7f6d7`](https://github.com/thirdweb-dev/js/commit/d2c7f6d758787fab102ecc0cec16ac74f3c87a1f) Thanks [@iketw](https://github.com/iketw)! - [ReactNative] Adds Device Wallet
+
 ## 0.1.12
 
 ### Patch Changes

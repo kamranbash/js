@@ -1,5 +1,18 @@
 # @thirdweb-dev/sdk
 
+## 3.10.12
+
+### Patch Changes
+
+- [#932](https://github.com/thirdweb-dev/js/pull/932) [`bf6df267`](https://github.com/thirdweb-dev/js/commit/bf6df2671131d7ed38650e2bed806081b32dc244) Thanks [@kumaryash90](https://github.com/kumaryash90)! - Add SKALE chains gas price
+
+- [#905](https://github.com/thirdweb-dev/js/pull/905) [`f0279c22`](https://github.com/thirdweb-dev/js/commit/f0279c228829b86ff1f828219bcef4fe16901f67) Thanks [@kumaryash90](https://github.com/kumaryash90)! - Verification utils for any EVM contracts
+
+- Updated dependencies [[`d2c7f6d7`](https://github.com/thirdweb-dev/js/commit/d2c7f6d758787fab102ecc0cec16ac74f3c87a1f)]:
+  - @thirdweb-dev/chains@0.1.13
+  - @thirdweb-dev/contracts-js@1.3.3
+  - @thirdweb-dev/storage@1.1.2
+
 ## 3.10.11
 
 ### Patch Changes
